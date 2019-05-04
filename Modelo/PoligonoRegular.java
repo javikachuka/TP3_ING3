@@ -73,9 +73,8 @@ public class PoligonoRegular {
     
     public double getArea(){
         double a = (Math.PI*2)/n ;
-        
         return (n*Math.pow(lado, 2))/(4*Math.tan(a/2)) ;
     }
-    
+    //afasdf
     
 }
